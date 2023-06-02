@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Test Page</title>
+        <style>
+            body{
+                background-color:rgb(168, 50, 78);
+            }
+            h1{
+                color:white;
+                font-size:40px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Hello student</h1>
+        <marquee>Demo Page</marquee>
+    </body>
+</html>
